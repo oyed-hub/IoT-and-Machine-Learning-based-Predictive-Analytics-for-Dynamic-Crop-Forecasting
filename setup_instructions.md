@@ -6,7 +6,7 @@ Follow the steps below to set up and run the Smart Agriculture project locally.
 
 Clone the project from GitHub.
 
-git clone (https://github.com/oyed-hub/Smart-Agriculture-Using-IoT-and-Machine-Learning)
+git clone https://github.com/oyed-hub/IoT-and-Machine-Learning-based-Predictive-Analytics-for-Dynamic-Crop-Forecasting
 
 cd smart-agriculture-ai
 
