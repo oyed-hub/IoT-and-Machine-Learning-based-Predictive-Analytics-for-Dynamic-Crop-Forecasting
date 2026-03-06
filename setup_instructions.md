@@ -6,7 +6,7 @@ Follow the steps below to set up and run the Smart Agriculture project locally.
 
 Clone the project from GitHub.
 
-git clone https://github.com/Harsha-Vardhan-1234/smart-agriculture-ai.git
+git clone (https://github.com/oyed-hub/Smart-Agriculture-Using-IoT-and-Machine-Learning)
 
 cd smart-agriculture-ai
 
