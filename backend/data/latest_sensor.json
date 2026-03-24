@@ -1,0 +1,20 @@
+{
+  "device_id": "sensor_01",
+  "temperature": 30,
+  "humidity": 65,
+  "soil_moisture": 55,
+  "soil_type": "clayey",
+  "predicted_crop": "wheat",
+  "disease_info": [
+    {
+      "name": "Leaf Rust",
+      "pesticide": "Propiconazole",
+      "dosage": "250 ml/acre"
+    },
+    {
+      "name": "Powdery Mildew",
+      "pesticide": "Hexaconazole",
+      "dosage": "200 ml/acre"
+    }
+  ]
+}
